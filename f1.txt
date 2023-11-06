@@ -7,3 +7,5 @@ One more commit.
 
 Sth more.
 And more.
+
+Commit on branch3
