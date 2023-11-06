@@ -10,3 +10,6 @@ And more.
 
 Commit on branch3
 Second on branch3
+
+commit1
+commit2
